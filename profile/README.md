@@ -1,6 +1,6 @@
 ## 团队介绍
 
-翠碧丝的 OS 魔典队是OS 功能挑战赛道团队的一支队伍。
+翠碧丝的 OS 魔典队是 OS 功能挑战赛道团队的一支队伍。
 
 组织官网：https://beatrice-os-team.github.io/
 
